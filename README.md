@@ -32,3 +32,5 @@ Model Prediction: 3.68
 
 Result:
 Explanations are on notebooks maybe you want to now result of model if you want, you should open Real_Life_Predict.ipynb notebook and you can read last part
+
+## Attention: You must look at important_update
